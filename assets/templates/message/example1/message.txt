@@ -1,0 +1,4 @@
+{{#START_DATE#}} ile {{#END_DATE#}} tarihleri arasında {{#DURATION#}} gerçekleştirilen
+{{#EVENT_NAME#}} eğitimine katılımınızdan dolayı 
+bu belgeyi almaya hak kazandınız!
+Alan kişinin email adresi: {{$EMAIL$}}

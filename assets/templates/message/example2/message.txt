@@ -1,0 +1,4 @@
+{{#EVENT_ORGANIZER#}} tarafından 
+{{#EVENT_DATE#}} tarihinde gerçekleştirilen
+{{#EVENT_NAME#}} etkinliğine katılımınızdan dolayı 
+bu belgeyi almaya hak kazandınız.
