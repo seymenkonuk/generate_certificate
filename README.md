@@ -161,17 +161,17 @@ Uygulama **Docker** üzerinden kolayca çalıştırılabilir.
 ```
 ├── generate_certificate/
 │   ├── assets/			
-│   │   ├── demo/				#Proje sonuç video ve resimleri
-│   │   ├── fonts/				#Sertifikada kullanılan fontların .TTF uzantılı dosyaları
+│   │   ├── demo/			#Proje sonuç video ve resimleri
+│   │   ├── fonts/			#Sertifikada kullanılan fontların .TTF uzantılı dosyaları
 │   │   └── templates/			#şablonlar
-│   │       ├── certificate/	#.SVG uzantılı sertifika şablonu
+│   │       ├── certificate/		#.SVG uzantılı sertifika şablonu
 │   │       └── message/		#sertifikanın üzerinde yazacak mesaj için şablon
-│   ├── inputs/					#projenin girdi dosyaları
-│   ├── outputs/				#projenin çıktı dosyaları
-│   │       ├── certificates/	#üretilen sertifikaların yer aldığı dizin
+│   ├── inputs/				#projenin girdi dosyaları
+│   ├── outputs/			#projenin çıktı dosyaları
+│   │       ├── certificates/		#üretilen sertifikaların yer aldığı dizin
 │   │       └── qrcodes/		#üretilen qr kodların yer aldığı dizin
-│   ├── settings/				#ayar dosyaları
-│   └── src/					#projenin kaynak kodları
+│   ├── settings/			#ayar dosyaları
+│   └── src/				#projenin kaynak kodları
 ```
 
 <p align="right">(<a href="#generate-certificate">back to top</a>)</p>
