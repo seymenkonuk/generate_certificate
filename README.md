@@ -94,9 +94,7 @@ Projenin düzgün çalışabilmesi için aşağıdaki yazılımların sisteminiz
 	[Constant]
 	EVENT_ORGANIZER=Example Community
 	EVENT_NAME=Example Event
-	START_DATE=01.01.2025
-	END_DATE=30.01.2025
-	DURATION=30 saat
+	EVENT_DATE=01.01.2025
 	```
 8. Kişi değişkenlerini **inputs/new_participants.tsv** dosyasına tanımlayınız.
 	```
